@@ -1,0 +1,5 @@
+TWS_PARTNER_PASSWORD=qwer1234
+TWS_PARTNER_USERNAME=brg_euab
+TWS_PARTNER_BASEURL=https://dev.brokerage24.kz/api/v3
+
+https://tws-brokertest.eubank.kz/a0792b7e-529f-46f7-a0d6-f367c0f45236?source=partner
